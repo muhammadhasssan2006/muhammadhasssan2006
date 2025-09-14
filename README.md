@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadhasssan2006" alt="muhammadhasssan2006" /></a> </p>
 
-- 🔭 I’m currently working on **HTML**
+- 🔭 I’m currently working on **Javascript**
 
 - 🌱 I’m currently learning **Mern Stack**
 
