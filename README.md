@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadhasssan2006" alt="muhammadhasssan2006" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **react js**
 
 - 🌱 I’m currently learning **Mern Stack**
 
 - 👯 I’m looking to collaborate on **Frontend**
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP & JS**
+- 💬 Ask me about **HTML,CSS,BOOTSTRAP,tailwind,JS,react js**
 
 - 📫 How to reach me **hassanweb365@gmail.com**
 
