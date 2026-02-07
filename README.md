@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend**
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP,tailwind,JS,react js**
+- 💬 Ask me about **HTML,CSS,Bootstrap,Tailwind,JS,React js**
 
 - 📫 How to reach me **hassanweb365@gmail.com**
 
